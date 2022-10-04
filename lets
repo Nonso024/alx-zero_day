@@ -1,9 +1,0 @@
-[master 0fb1041] go
- 7 files changed, 0 insertions(+), 0 deletions(-)
- rename {0x01-git => 0x03-git}/README.md (100%)
- rename {0x01-git => 0x03-git}/bash/alx (100%)
- rename {0x01-git => 0x03-git}/bash/school (100%)
- rename {0x01-git => 0x03-git}/c/c_is_fun.c (100%)
- rename {0x01-git => 0x03-git}/js/index.js (100%)
- rename {0x01-git => 0x03-git}/js/main.js (100%)
- rename {0x01-git => 0x03-git}/up_to_date (100%)
